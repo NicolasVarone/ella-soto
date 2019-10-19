@@ -1,16 +1,20 @@
 .album-cover {
-    width: 80%;
     height: 100%;
     margin: auto;
-    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 650px 1fr;
+}
+
+h1 {
+    grid-column-start: 1;
 }
 
 img {
-    width: 45%;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    grid-column-start: 2;
+    width: 100%;
     margin: auto;
+}
+
+nav {
+    grid-column-start: 3;
 }
