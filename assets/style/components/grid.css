@@ -1,0 +1,6 @@
+.name-cover-nav {
+    height: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 650px 1fr;
+}
