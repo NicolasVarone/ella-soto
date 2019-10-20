@@ -1,0 +1,18 @@
+#main-navbar {
+    align-self: center;
+    justify-self: center;
+}
+
+#main-navbar > ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+#main-navbar > ul > li {
+    font-size: 2.5rem;
+}
+
+#main-navbar > ul > li > a {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,11 @@
+#main-title {
+    font-size: 4rem;
+    width: auto;
+    /* Rédifinition du point sur lequel se fait la rotation (centre de la div dans ce cas) */
+    transform-origin: center;
+    transform: rotate(-90deg);
+    /* Je définis la hauteur de la div pour qu'elle soit égale à la hauteur du tete */
+    height: 4rem;
+    /* Propriété permettant d'aligner verticalement le contenue d'une case de la grille*/
+    align-self: center;
+}

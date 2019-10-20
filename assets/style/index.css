@@ -1,4 +1,7 @@
 @import 'components/img.css';
+@import 'components/grid.css';
+@import 'components/nav.css';
+@import 'components/title.css';
 
 html, body {
     height: 100%;
