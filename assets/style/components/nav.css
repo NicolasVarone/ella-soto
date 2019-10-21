@@ -6,6 +6,8 @@
 #main-navbar > ul {
     text-align: center;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 #main-navbar > ul > li {

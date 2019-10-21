@@ -8,4 +8,6 @@
     height: 4rem;
     /* Propriété permettant d'aligner verticalement le contenue d'une case de la grille*/
     align-self: center;
+    margin: 0;
+    text-align: center;
 }
