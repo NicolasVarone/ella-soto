@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/stars_background.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
