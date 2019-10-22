@@ -1,4 +1,12 @@
-img {
+#title {
+    width: 160%;
+    transform-origin: center;
+    transform: rotate(-90deg);
+    align-self: center;
+    justify-self: center;
+}
+
+#cover {
     width: 100%;
     margin: auto;
 }
