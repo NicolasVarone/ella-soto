@@ -2,6 +2,7 @@
 @import 'components/grid.css';
 @import 'components/nav.css';
 @import 'components/title.css';
+@import 'components/twinkler.css';
 
 html, body {
     height: 100%;
@@ -14,5 +15,3 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-/* Fonts */

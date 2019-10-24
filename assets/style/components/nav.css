@@ -10,7 +10,7 @@ nav > ul {
 }
 
 nav > ul > li {
-    /* alignement du texte de chaque list item soit du lien et de l'image, vers le centre */
+    /* alignement du texte de chaque list item au centre */
     text-align: center;
 }
 
