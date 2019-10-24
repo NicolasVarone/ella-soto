@@ -1,12 +1,24 @@
 nav {
-    display: flex;
+    /* alignement vertical de la div qui englobe tout mon texte dans cette cellule de la grille
+    l'alignement est fait par rapport à sa cellule */
+    align-self: center;
 }
 
 nav > ul {
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;;
 }
 
+nav > ul > li {
+    /* alignement du texte de chaque list item soit du lien et de l'image, vers le centre */
+    text-align: center;
+}
+
+
+.nav-img {
+    /* Ici j'agis sur la hauteur des images afin de ne pas deformer le txt et non pas la largeur, j'impose une marge 
+    top et bottom de -.5rem donc je réduis la marge verticale de chaque élément de 1rem soit de 1 fois la taille de
+    la police d'écriture de base affichée par le navigateur (permet d'être responsive plus simplement) */
+    margin: -.5rem 0;
+    height: 6rem;
+}
