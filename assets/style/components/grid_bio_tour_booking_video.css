@@ -1,0 +1,7 @@
+.ella-container {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-rows: 18% 64% 18%;
+}

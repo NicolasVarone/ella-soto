@@ -1,0 +1,16 @@
+@import '../components/ella_soto_index.css';
+@import '../components/grid_index.css';
+@import '../components/nav_index.css';
+@import '../components/twinkler.css';
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url("../../images/stars_background.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
