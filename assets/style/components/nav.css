@@ -1,0 +1,41 @@
+/* nav_index */
+
+nav {
+    align-self: center;
+}
+
+nav > ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    text-align: center;
+}
+
+.nav-img-index {
+    margin: -.5rem 0;
+    height: 6rem;
+}
+
+
+/* nav_bio_tour_booking_video */
+
+.nav-bio-tour-booking-video {
+    justify-self: center;
+    align-self: center;
+}
+
+.nav-bio-tour-booking-video > ul {
+    padding: 0;
+    margin: 0;
+}
+
+.nav-bio-tour-booking-video > ul > li {
+    list-style: none;
+    display: inline-block;
+}
+
+.nav-img-bio-tour-booking-video {
+    height: 6rem;
+}
