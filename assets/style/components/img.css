@@ -1,3 +1,5 @@
+/* img_index */
+
 #title {
     width: 150%;
     transform-origin: center;
@@ -9,4 +11,18 @@
 #cover {
     width: 100%;
     margin: auto;
+}
+
+
+/* img_bio_tour_bookin_video */
+
+.ella-bio-tour-booking-video > a {
+    height: 5rem;
+    width: 20rem;
+    justify-self: center;
+    align-self: center;
+}
+
+#title-bio-tour-booking-video {
+    width: 20rem;
 }
