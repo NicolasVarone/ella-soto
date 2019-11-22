@@ -1,10 +1,11 @@
 .bio-frame {
-    border: 5px solid #B2008E;
     color: white;
     width: 60%;
-    margin: 0 auto;
+    margin: 1rem auto;
     text-align: justify;
     padding: .5rem 1rem;
     overflow: scroll;
     font-size: 1.1rem;
+    box-shadow: 0 0 20px 5px #E86FE5;
+    border-radius: 10px;
 }
