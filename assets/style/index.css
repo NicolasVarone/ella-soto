@@ -2,6 +2,7 @@
 @import 'components/img.css';
 @import 'components/nav.css';
 @import 'components/twinkler.css';
+@import 'components/frame.css';
 
 html, body {
     height: 100%;
